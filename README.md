@@ -1,4 +1,4 @@
-# { name } resume
+# LoveBlackCoffee's resume
 
 ## Sample
 
