@@ -4,14 +4,14 @@
 
 |key|value|
 |---|---|
-|氏名|Kato Kengo|
-|生年月日|1988 08 01|
+|氏名|K K|
+|生年月日|1988/08/01|
 |Twitter|https://twitter.com/TrVULp2Z8xSyb7H|
 |Qiita|https://qiita.com/LoveCoffeeBreak|
 |note||
 |Zenn|https://zenn.dev/lovecoffeebreak|
 |SpeakerDeck||
-|wantedly|https://www.wantedly.com/id/Kato_Kengo|
+|wantedly|https://www.wantedly.com/id/Love_K_K|
 
 ---
 
