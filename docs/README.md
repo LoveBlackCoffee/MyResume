@@ -4,7 +4,7 @@
 
 |key|value|
 |---|---|
-|氏名|K K|
+|氏名|K.K|
 |生年月日|1988/08/01|
 |Twitter|https://twitter.com/TrVULp2Z8xSyb7H|
 |Qiita|https://qiita.com/LoveCoffeeBreak|
