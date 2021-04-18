@@ -12,6 +12,7 @@
 |Zenn|https://zenn.dev/lovecoffeebreak|
 |SpeakerDeck||
 |wantedly|https://www.wantedly.com/id/Love_K_K|
+|YOUTRUST|https://youtrust.jp/users/kkkk|
 
 ---
 
@@ -55,7 +56,7 @@
 
 ## 職務経歴詳細
 
-### 株式会社オープンセサミテクノロジー（2020年04〜現在）
+### 株式会社オープンセサミテクノロジー（2014年05〜現在）
 
 - 高齢者見守りアプリ（2020年9月～現在）
     - 新規事業立ち上げ 客先常駐
